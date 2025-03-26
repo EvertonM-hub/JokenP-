@@ -6,5 +6,6 @@
 <p><b>O projeto captura o clike do usuario em um dos botões e ao mesmo tempo manda a alternativa do computador, contabiliza quando um dos dois vencem.</b></p>
 <p><b>Cooloquei uma img a mais e deixei um pouco mais divertido de se ver.</b> </p>
 <br>
+https://evertonm-hub.github.io/JokenP-/
 <img src="https://github.com/user-attachments/assets/3dad9f32-ba8d-430a-adb9-c9772d8d267b">
-<link src="
+<a () href = "https://evertonm-hub.github.io/JokenP-/">
